@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-08-20T12:54:09 IST" name="Default suite" finished-at="2023-08-20T12:54:09 IST" duration-ms="43">
+  <suite started-at="2023-08-20T13:00:19 IST" name="Default suite" finished-at="2023-08-20T13:00:19 IST" duration-ms="52">
     <groups>
     </groups>
-    <test started-at="2023-08-20T12:54:09 IST" name="Default test" finished-at="2023-08-20T12:54:09 IST" duration-ms="43">
-      <class name="com.tourism.nielmart.module1.Admin">
-        <test-method signature="display()[pri:0, instance:com.tourism.nielmart.module1.Admin@6973b51b]" started-at="2023-08-20T12:54:09 IST" name="display" finished-at="2023-08-20T12:54:09 IST" duration-ms="6" status="PASS">
+    <test started-at="2023-08-20T13:00:19 IST" name="Default test" finished-at="2023-08-20T13:00:19 IST" duration-ms="52">
+      <class name="com.tourism.nielmart.module1.Buyer">
+        <test-method signature="buy()[pri:0, instance:com.tourism.nielmart.module1.Buyer@6973b51b]" started-at="2023-08-20T13:00:19 IST" name="buy" finished-at="2023-08-20T13:00:19 IST" duration-ms="8" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- display -->
-        <test-method signature="modify()[pri:0, instance:com.tourism.nielmart.module1.Admin@6973b51b]" started-at="2023-08-20T12:54:09 IST" name="modify" finished-at="2023-08-20T12:54:09 IST" duration-ms="2" status="PASS">
+        </test-method> <!-- buy -->
+        <test-method signature="sell()[pri:0, instance:com.tourism.nielmart.module1.Buyer@6973b51b]" started-at="2023-08-20T13:00:19 IST" name="sell" finished-at="2023-08-20T13:00:19 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- modify -->
-      </class> <!-- com.tourism.nielmart.module1.Admin -->
+        </test-method> <!-- sell -->
+      </class> <!-- com.tourism.nielmart.module1.Buyer -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
