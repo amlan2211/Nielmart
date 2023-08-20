@@ -7,6 +7,7 @@ public class Admin {
 	public void display()
 	{
 		System.out.println("admin module is ready");
+		System.out.println("admin module is not ready");
 	}
 	@Test
 	public void modify()
