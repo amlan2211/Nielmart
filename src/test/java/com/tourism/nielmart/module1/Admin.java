@@ -13,6 +13,7 @@ public class Admin {
 	public void modify()
 	{
 		System.out.println("admin module is modified");
+		System.out.println("hello hi");
 	}
 	
 

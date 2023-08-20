@@ -12,5 +12,7 @@ public class Buyer {
    public void sell()
    {
 	   System.out.println(" seller is ready");
+	   System.out.println(" seller is not ready");
+	   
    }
 }
